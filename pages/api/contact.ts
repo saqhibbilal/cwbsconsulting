@@ -116,7 +116,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
             <!-- Footer -->
             <div style="text-align: center; padding: 14px; background-color: #fff; border-top: 1px solid rgba(0,0,0,0.03);">
               <p style="color: #64748b; font-size: 13px; margin: 0;">
-                © ${new Date().getFullYear()} Fusion Cloud Trainings. All rights reserved.
+                © ${new Date().getFullYear()} CWBS Consulting. All rights reserved.
               </p>
             </div>
           </div>
@@ -129,8 +129,8 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
 
   try {
     await transporter.sendMail({
-      from: `Fusion Cloud Trainings <${smtpUser}>`,
-      to: 'admin@fusioncloudtrainings.com',
+      from: `CWBS Consulting<${smtpUser}>`,
+      to: 'ghouse@cwbsconsulting.com',
       subject: `Contact Inquiry: ${subject}`,
       html,
       text,
