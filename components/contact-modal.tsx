@@ -228,10 +228,10 @@ export function ContactModal({ isOpen, onClose }: ContactModalProps) {
                       </SelectTrigger>
                     </FormControl>
                     <SelectContent>
-                      <SelectItem value="Industrial training">Industrial training</SelectItem>
+                      <SelectItem value="Corporate training">Corporate training</SelectItem>
                       <SelectItem value="Request for Quote">Request for Quote</SelectItem>
-                      <SelectItem value="Services">Services</SelectItem>
-                      <SelectItem value="Courses">Courses</SelectItem>
+                      <SelectItem value="Services Inquiry">Services Inquiry</SelectItem>
+                      <SelectItem value="Consulting">Consulting</SelectItem>
                       <SelectItem value="Other">Other</SelectItem>
                     </SelectContent>
                   </Select>

@@ -25,7 +25,7 @@ export default function Header() {
         {/* Brand Name Only */}
         <div className="flex flex-col">
           <h1 className="text-2xl sm:text-3xl font-extrabold bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent leading-tight">
-            Fusion Cloud Trainings
+            Corporate World Business Solutions
           </h1>
         </div>
 
