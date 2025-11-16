@@ -47,7 +47,7 @@ export default function LegalModal({
       sections: [
         {
           heading: "Acceptance of Terms",
-          text: "By accessing and using Fusion Cloud Trainings, you agree to be bound by these terms. If you do not agree, please do not use our services."
+          text: "By accessing and using Corporate World Business Solutions, you agree to be bound by these terms. If you do not agree, please do not use our services."
         },
         {
           heading: "User Responsibilities",
@@ -55,7 +55,7 @@ export default function LegalModal({
         },
         {
           heading: "Intellectual Property",
-          text: "All content, trademarks, and data on this site are the property of Fusion Cloud Trainings or its licensors."
+          text: "All content, trademarks, and data on this site are the property of Corporate World Business Solutions or its licensors."
         },
         {
           heading: "Changes to Terms",

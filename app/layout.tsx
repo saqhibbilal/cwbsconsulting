@@ -11,10 +11,10 @@ const manrope = Manrope({
 })
 
 export const metadata: Metadata = {
-  title: "Fusion Cloud",
+  title: "CWBS Consulting",
   description: "Professional training in Oracle Cloud, AI, Data Engineering, and Business Solutions",
   icons: {
-    icon: "/f.png",
+    icon: "/location.png",
   },
 }
 

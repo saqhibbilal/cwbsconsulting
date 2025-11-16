@@ -15,11 +15,11 @@ export default function Footer({
           <div>
             <div className="flex items-center gap-2 mb-4">
               <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-primary to-secondary flex items-center justify-center">
-                <span className="text-white font-bold">F</span>
+                <span className="text-white font-bold">CW</span>
               </div>
-              <h3 className="font-bold text-foreground">Fusion Cloud</h3>
+              <h3 className="font-bold text-foreground">CWBS Consulting</h3>
             </div>
-            <p className="text-sm text-muted-foreground">Professional training for enterprise cloud solutions</p>
+            <p className="text-sm text-muted-foreground">Tailored consulting for enterprise modernization and growth</p>
           </div>
 
           {/* Quick Links */}
@@ -144,7 +144,7 @@ export default function Footer({
 
         {/* Bottom */}
         <div className="border-t border-border pt-8 text-center text-sm text-muted-foreground">
-          <p>© 2025 Fusion Cloud Trainings. All rights reserved.</p>
+          <p>© 2025 CWBS Consulting. All rights reserved.</p>
         </div>
       </div>
     </footer>

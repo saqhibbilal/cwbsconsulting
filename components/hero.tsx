@@ -38,17 +38,17 @@ const Hero: React.FC<HeroProps> = () => {
           isVisible ? "animate-fade-in-up" : "opacity-0 translate-y-10"
         }`}>
           <span className="bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
-            Enterprise Cloud
+            Enterprise Consulting
           </span>
           <br />
-          <span className="text-foreground">Training Excellence</span>
+          <span className="text-foreground">Corporate Excellence</span>
         </h1>
 
         <p className={`text-lg sm:text-xl text-muted-foreground mb-8 max-w-2xl mx-auto transition-all duration-1000 delay-200 ${
           isVisible ? "animate-fade-in-up" : "opacity-0 translate-y-10"
         }`}>
-          Master Oracle Cloud, AI, Data Engineering, and modern business solutions with industry experts. Transform your
-          career with hands-on training.
+          Leverage expert consulting, performance-driven business services, and customized corporate training. Strengthen your
+          organization with proven strategies and real-world solutions.
         </p>
 
         <div className={`flex flex-col sm:flex-row gap-4 justify-center transition-all duration-1000 delay-300 ${
