@@ -70,7 +70,7 @@ export default function Footer({
                 Frisco, Texas<br />
                 United States
               </li>
-              <li>Email: <a href="mailto:admin@fusioncloudtrainings.com" className="underline hover:text-primary">admin@fusioncloudtrainings.com</a></li>
+              <li>Email: <a href="mailto:ghouse@cwbsconsulting.com" className="underline hover:text-primary">info@cwbsconsulting.com</a></li>
             </ul>
           </div>
 
