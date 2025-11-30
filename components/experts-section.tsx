@@ -32,7 +32,7 @@ const experts = [
     facebook: "https://facebook.com",
   },
   {
-    name: "Saqhib Bilal",
+    name: "Mohammed Bilal",
     title: "AI & Data Solutions Manager",
     bio: "Saqhib focuses on harnessing AI and data-driven insights to enhance delivery excellence, streamline operations, and support data-centric decision-making across projects.",
     initials: "SB",
